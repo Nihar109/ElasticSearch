@@ -1,2 +1,3 @@
-# ElasticSearch
-This project is about elastic search engine
+## ElasticSearch
+This project is about creating a elastic search query for netflix datasets
+
